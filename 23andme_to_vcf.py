@@ -25,7 +25,7 @@ import csv
 import re
 import sys
 from collections import defaultdict
-import tabix
+#import tabix
 import gzip
 from vcflib import *
 
